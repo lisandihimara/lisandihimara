@@ -38,7 +38,7 @@
 
 ---
 
-<h3 align="center"> Language and tools</h3>
+<h3 align="center"> Language and Tools</h3>
 
 ###
 
