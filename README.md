@@ -20,7 +20,7 @@
 </td>
 <td width="50%" align="center">
 
-  <img align="center" alt="Coding" width="450" src="">
+  <img align="center" alt="Coding" width="450" src="DataAnalysis-ezgif.com-optimize (1).gif">
 
   
   </td>
