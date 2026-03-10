@@ -3,7 +3,7 @@
 <h3 align="center">Passionate Data Science & Business Analytics Student | Seeking Knowledge & Wisdom</h3>
 
 <table align="center">
-<tr border="none">
+<tr border="none"> 
 <td width="50%" align="left">
 
 - 🧑‍🎓 I’m an Undergraduate pursuing **BSc (Hons) Data Science & Business Analytics** at **General Sir John Kotelawala Defence University (KDU)**
