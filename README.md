@@ -20,7 +20,7 @@
 </td>
 <td width="50%" align="center">
 
-  <img align="center" alt="Coding" width="450" src="Data analytics techniques.gif">
+  <img align="center" alt="Coding" width="450" src="">
 
   
   </td>
