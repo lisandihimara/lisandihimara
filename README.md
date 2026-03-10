@@ -64,7 +64,7 @@
 ###
 
 ---
-
 <p align="center">
-  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/lisandihimara/lisandihimara/output/github-contribution-grid-snake.gif">
+  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
+    alt="example" />
 </p>
