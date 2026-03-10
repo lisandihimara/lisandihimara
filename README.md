@@ -6,8 +6,7 @@
 <tr border="none">
 <td width="50%" align="left">
 
-- 🧑‍🎓 I’m an Undergraduate pursuing **BSc (Hons) Data Science & Business Analytics**  
-  at **General Sir John Kotelawala Defence University (KDU)**
+- 🧑‍🎓 I’m an Undergraduate pursuing **BSc (Hons) Data Science & Business Analytics** at **General Sir John Kotelawala Defence University (KDU)**
 
 - 💻 Faculty of Computing – Department of Computational Mathematics
 
