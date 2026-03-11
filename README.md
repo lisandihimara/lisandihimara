@@ -72,4 +72,6 @@
 </p>
 
 ---
-Built and maintained by **Lisandi Himara**
+<p align="center">
+Built and maintained by <b>Lisandi Himara</b>
+</p>
