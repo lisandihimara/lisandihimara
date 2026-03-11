@@ -31,9 +31,11 @@
 ---
 
 <h3 align="center"> Connect with me </h3>
+
 <p align="center">
-<a href="https://linkedin.com/in/lisandihimara" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="lisandihimara" height="50" width="50" /></a>
-  <img width="1" />
+<a href="https://www.linkedin.com/in/lisandi-himara-b7aba7355" target="_blank">
+<img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="LinkedIn" height="50" width="50" />
+</a>
 </p>
 
 ---
