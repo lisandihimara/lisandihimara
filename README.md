@@ -71,4 +71,5 @@
     alt="example" />
 </p>
 
-Designed by Lisandi Himara
+---
+Built and maintained by **Lisandi Himara**
