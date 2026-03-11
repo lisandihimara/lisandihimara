@@ -71,4 +71,4 @@
     alt="example" />
 </p>
 
-GitHub Profile README © Lisandi Himara
+Designed by Lisandi Himara
